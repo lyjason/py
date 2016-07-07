@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+#-*-coding:utf-8-*-
+#课堂训练:一个list的平方和
 def a(L):
 	w=[]
 	for x in L:
