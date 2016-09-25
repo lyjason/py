@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.62.6
 #-*-coding:utf-8-*-
 #课堂训练:一个list的平方和
 def a(L):

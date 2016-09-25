@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.6
 #-*- coding:utf-8 -*-
 
 #以正确的宽度在居中的“盒子”内打印一个句子

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.6
 #-*-coding:utf-8-*-
 #带验证的系统登录脚本
 

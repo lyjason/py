@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.62.6
 #coding:utf-8
 print'你好'
 print'请输入您的ID'

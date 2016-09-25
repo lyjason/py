@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2.6
 #-*-coding:utf-8-*-
 s1 = 72 
 s2 = 85
