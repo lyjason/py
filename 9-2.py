@@ -1,4 +1,4 @@
-#!/usr/bin/python2.62.6
+#!/usr/bin/python2.6
 #-*-coding:utf-8-*-
 #课堂训练
 #zip命令、range命令
