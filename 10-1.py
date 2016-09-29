@@ -1,4 +1,4 @@
-#!/usr/bin/python2.62.6
+#!/usr/bin/python2.6
 #-*-coding:utf-8-*-
 print 'imooc test 10-1 生成列表'
 
